@@ -1,7 +1,7 @@
 # Hi, I'm Eunji Lee 
 
 **Backend Software Engineer** · 5+ years of Enterprise ERP Development  
-📚 Master of IT @ University of Western Australia
+📚 Master of IT at University of Western Australia
 
 ---
 
